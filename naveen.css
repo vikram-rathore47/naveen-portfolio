@@ -1,0 +1,385 @@
+    .about h1{
+        position:absolute;
+        color: #E3D344;
+        margin-top: 0%;
+        padding-top: 0px;
+        margin-left: 130px;
+        z-index: 2;
+        font-size: 30px;
+    }
+    .about h2{
+        position: absolute;
+        color: black;
+        margin-top: 0%;
+        padding-top: 0px;
+        z-index: 2;
+        margin-left: 680px;
+    }
+    .about a{
+        text-decoration: none;
+        color: black;
+        padding-top: 0%;
+    }
+    .about a:focus{
+        border-bottom: #E3D344 2px solid;
+    }
+    .about{
+        position: relative;
+        background-color:#202020;
+        height: 550px;
+        width: 100%;
+       overflow: hidden;
+    }
+    html,body{
+        margin: 0%;
+        padding: 0%;
+        scroll-behavior: smooth;
+    }
+    .about img{
+        position: absolute;
+        padding: 0%;
+        height: 550px;
+        z-index: 1;
+        margin-left: 550px;
+        display: block;
+    }    
+    .about p{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        position: absolute;
+        color: white;
+        margin-top: 0%;
+        padding-top: 130px;
+        margin-left: 160px;
+        z-index: 2;
+        font-size: 80px;
+       
+    }
+    .about h3{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        position: absolute;
+        color: black;
+        padding: 20px;
+        padding-left: 70px;
+        padding-right: 70px;
+        margin-top: 0%;
+        margin-top: 350px;
+        margin-left: 160px;
+        z-index: 2;
+        font-size: 30px;
+        background-color: #E3D344;
+    }
+  
+    .naveen{
+        position: relative;
+        background-color: black;
+        height: 400px;
+        width: 100%;
+       overflow: hidden;
+       display: flex;
+    }
+    .naveen h1{
+        color: white;
+        margin-top: 60px;
+        margin-left: 150px;
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute;
+        z-index: 2;
+        font-size: 30px;
+    }
+    .naveen p{
+        color: white;
+        margin-top: 160px;
+        padding-left: 0px;
+    }
+    .expert{
+        padding: 10px;
+        background-color:#202020;
+        height: 400px;
+        width: 98.5%;
+    }
+    .expert h1{
+        color: white;
+        padding-top: 50px;
+        margin-left: 150px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .master{
+        margin-top: 30px;
+        margin-left: 120px;
+        padding-top: 20px;
+        height: 300px;
+        width: 270px;
+        background-color:#E3D344;        ;
+        border-radius: 5px;
+        transition-duration: 0.5s;
+        line-height: 32px;
+        
+    }
+    .master:hover{
+        padding-top: 0px;
+        border-radius: 15px;
+        background-color: rgb(130, 177, 0);
+        line-height: 20px;
+        display: block;
+        height: 350px;
+        margin-top: 10px;
+    }
+    
+    .always{
+        padding-top: 10px;
+        height: 400px;
+        background-color: black;
+        align-content: center;
+    }
+    .always p{
+        text-align: center;
+         color: white;
+         padding: 20px;
+    }
+    .fashion{
+        background-color: #E3D344;
+        height: 300px;
+        width: 1100px;
+        margin-top: 100px;
+        margin-left: 120px;
+    }
+    .chintu{
+        background-color: black;
+        color: white; 
+        margin-left: 400px; 
+        margin-right: 400px; 
+        margin-top: 50px;
+        font-size: 20px;
+    }
+    .chintu:hover{
+        background-color: #202020;
+        cursor:pointer;
+    }
+    .projects{
+        height: 1450px;
+        background-color: black;
+        padding: 10px;
+        
+    }
+    .projects h1{
+        color: white;
+        text-align: center;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        padding-top: 20px;
+        font-size: 30px;
+    }
+    .projects h2{
+        color:#E3D344;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        padding-top: 20px;
+        font-size: 30px;
+        padding-left: 30px;
+        padding-bottom: 0%;
+    }
+    .projects p{
+        padding-left: 30px;
+        padding-right: 0px;
+        font-size: 20px;
+        font-family:'Times New Roman', Times, serif;
+    }
+    .projects pre{
+        color: #E3D344;
+        padding-top: 90px;
+        font-size: 30px;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        padding-left: 100px;
+    }
+    .vicky{
+        height: 270px;
+        background-color: whitesmoke;
+        border-radius: 15px;
+        align-content: center;
+        display: flex;
+        margin-top: 70px; 
+        margin-left: 140px;
+        margin-right: 440px;
+    }
+    
+    .vikram{
+        background-color: skyblue;
+        height: 235px;
+        margin-left: 20px;
+        margin-top: 20px;
+        border-radius: 15px;
+        width: 300px;
+        
+    }
+    .vikram img{
+        height: 150px;
+        padding-top: 40px;
+        padding-left: 15px;
+        padding-right: 30px;
+    }
+    .virat{
+        background-color: #E3D344;
+        height: 225px;
+        width: 290px;
+        margin-top: 100px;
+        margin-left: 80px;
+        border-radius: 25px;
+        transition-duration: 0.5s;
+    }
+    .virat:hover{
+        background-color: rgb(130, 177, 0);
+    }
+    .nahi{
+        position: absolute;
+        overflow: hidden;
+        background-image: url('Home 1.png');
+        background-size: cover;
+        height: 250px;
+        width: 245px;
+        padding: 0px;
+        border-radius: 20px;
+        margin-left: 20px;
+        margin-top: -35px;
+        transition-duration: 0.5s;
+    }
+    .nahi img{
+        margin: -6px;
+        height: 280px;
+        width: 260px;
+    }   
+    .maahi{
+        position: relative;
+        overflow: hidden;
+        background-color:#202020 ;
+        height: 250px;
+        width: 245px;
+        border-radius: 20px;
+        transition-duration: 0.5s;
+        opacity: 0;
+    }
+    .maahi:hover{
+        opacity: 1;
+    }
+    .maahi img{
+        margin: -6px;
+        border-radius: 20px;
+        opacity: 0.4;
+        transition-duration: 0.5s;
+    }
+    .maa{
+        position: absolute;  
+        height: 250px;
+        width: 245px;
+        border-radius: 20px;
+        margin-left: 0px;
+        margin-top: 0px;
+        transition-duration: 0.5s; 
+        top: 50%; 
+        left: 50%; 
+        transform: translate(-50%, -50%); 
+        text-align: center;
+        opacity: 1;
+    }
+    .maa h1{
+        padding-top: 60px;
+        color: #E3D344;
+        font-size: 35px; 
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }    
+    .yuvi{
+        position: relative;
+        background-color: rgb(33, 145, 189);
+        height: 250px;
+        width: 250px;
+        border-radius: 20px;
+        margin-left: 20px;
+        margin-top: -35px;
+        align-content: center;
+        overflow: hidden;
+        transition-duration: 1s;
+    }
+    .yuvi:hover{
+        background-color: #202020;
+    }
+    .yuv{
+        position: relative;
+        background-color:black;
+        height: 250px;
+        width: 250px;
+        border-radius: 20px;
+        margin-left: 20px;
+        margin-top: -35px;
+        align-content: center;
+        overflow: hidden;
+        transition-duration: 0.5s;
+    }
+    .yuv img:hover{
+        opacity: 0.4;
+    }
+    .yuvi img{
+        height: 150px;
+        margin-left: 10px;
+        transition-duration: 0.4s;
+    }
+    .yuvi img:hover{
+        height: 250px;
+        margin-left: -20px;
+        opacity: 0.4;
+        background-color: #202020;
+    }
+    .rohit{
+        background-color: #202020;
+        height: 450px;
+        padding-top: 10px;
+        padding-left: 0px;
+        margin-left: 0;
+    }
+    .rohit h1{
+        color: white;
+        padding-top: 10px;
+        padding-left: 130px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .pant{
+        height: 60px;
+        width: 250px;
+        margin-bottom: 20px;
+        transition-duration: 1s;
+    }
+    .pant h2{
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: white;
+    }
+    .iyer{
+        background-color: black;
+        height: 5px;
+        width: 150px;
+        border-radius: 10px;
+    }
+    .yash{
+        height: 300px;
+        width: 300px;
+        margin-left: 90px;
+    }
+    .yash h3{
+        color: white;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 30px;
+    }
+    .light{
+        height: 400px;
+        background-color: black;
+        display: flex;
+    }
+    .light h1{
+        color: #E3D344;
+        margin-top: 0px;
+        padding-top: 120px;
+        padding-left: 250px;
+        font-size: 30px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .light p{
+        color: white;
+        padding-left: 250px;
+        font-size: 20px;
+    }
